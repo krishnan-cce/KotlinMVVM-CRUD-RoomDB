@@ -3,7 +3,7 @@
 
 <body>
 
-<img src ="images/img1.jpeg" width="150"/>
+<img src ="Screenshots/img1.jpeg" width="150"/>
 
 </div>
 </body>
